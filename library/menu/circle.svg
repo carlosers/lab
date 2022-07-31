@@ -1,0 +1,28 @@
+<svg
+   width="200"
+   height="197"
+   viewBox="0 0 200 197"
+   fill="none"
+   xmLns="https://www.w3.org/2000/svg"
+   version="1.1"
+   id="svg27"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs31" />
+  <circle
+     cx="72"
+     cy="72"
+     r="72"
+     fill="#ae5fce"
+     id="circle21" />
+  <g style="mix-blend-mode:multiply"
+     id="g25">
+    <circle
+       cx="128"
+       cy="125"
+       r="72"
+       fill="#5b78c7"
+       id="circle23" />
+  </g>
+</svg>

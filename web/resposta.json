@@ -1,0 +1,4619 @@
+[
+    {
+        "codigoCurso": 5141,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "HUMANAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/20124/334799/Produ%C3%A7%C3%A3o+de+Conte%C3%BAdo+digital-+card.png/94b23685-3d03-3353-11d8-f5b63e38d7e6?t=1630419088439",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "Produção de Conteúdo digital- card.png"
+        },
+        "nome": "Produção de Conteúdo Digital",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "D"
+        ],
+        "duracao": "2",
+        "slug": "producao-de-conteudo-digital",
+        "linkVideo": [
+            {
+                "linkVideo": ""
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 4999,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "HUMANAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/20124/334799/Gest%C3%A3o+em+E-Commerce-card.png/944f05cc-85e5-120a-1339-daf18c73ff11?t=1630421926573",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "Gestão em E-Commerce-card.png"
+        },
+        "nome": "Gestão em e-commerce",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "D"
+        ],
+        "duracao": "2",
+        "slug": "gestao-em-e-commerce",
+        "linkVideo": [
+            {
+                "linkVideo": ""
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 5143,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "HUMANAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/20124/334799/Gestao+de+M%C3%ADdias+Sociais-+card_.png/db0cd27d-2220-de77-727c-f215543a84b8?t=1629400054568",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "Gestao de Mídias Sociais- card_.png"
+        },
+        "nome": "Gestão de Mídias Sociais",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "D"
+        ],
+        "duracao": "2",
+        "slug": "gestao-de-midias-sociais",
+        "linkVideo": [
+            {
+                "linkVideo": ""
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 5025,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "EXATAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/20124/334799/DevOps-card.png/498326fd-edc1-0c9b-164c-17b3c62dc983?t=1639056678743",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "DevOps-card.png"
+        },
+        "nome": "DevOps",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "P"
+        ],
+        "duracao": "2",
+        "slug": "devops",
+        "linkVideo": [
+            {
+                "linkVideo": ""
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 7124,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "EXATAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/1192248/full-stack-card-2.jpg/67dc29f2-4377-b24e-861e-1c4ea41bf094?t=1649343346021",
+            "description": "",
+            "encodingFormat": "image/jpeg",
+            "fileExtension": "jpg",
+            "title": "full-stack-card-2.jpg"
+        },
+        "nome": "Desenvolvimento Full Stack",
+        "textoCurto": "Novo",
+        "textoImagemDeCatalogo": "Novo",
+        "modalidade": [
+            "S"
+        ],
+        "duracao": "2,5",
+        "slug": "desenvolvimento-full-stack",
+        "linkVideo": [
+            {
+                "linkVideo": "86MUUj6Xz_Y"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 5059,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "BIOMEDICAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/1318782/Card+-+Morfologia+Humana.png/bc39fcde-eec7-b78c-a85f-3e213f1e0e50?t=1654195531567",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "Card - Morfologia Humana.png"
+        },
+        "nome": "Morfologia Humana",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "P"
+        ],
+        "duracao": "1",
+        "slug": "morfologia-humana",
+        "linkVideo": [
+            {
+                "linkVideo": ""
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 3670,
+        "numeroHabilitacao": 0,
+        "posicao": null,
+        "areaDeConhecimento": "BIOMEDICAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/20124/0/ODONTOLOGIA_PREMIUM-CARD-min.jpg/12857b74-cfbb-5a8c-49d3-ec8c693287dc?t=1654195144129",
+            "description": "",
+            "encodingFormat": "image/jpeg",
+            "fileExtension": "jpg",
+            "title": "ODONTOLOGIA_PREMIUM-CARD-min.jpg"
+        },
+        "nome": "Odontologia Premium",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "P"
+        ],
+        "duracao": "4",
+        "slug": "odontologia-premium",
+        "linkVideo": [
+            {
+                "linkVideo": ""
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": {
+                    "contentUrl": "/documents/20124/0/area-de-convivencia.jpg/bdfc57b4-8b50-5cb9-d815-0af99c7e7dfe?t=1654194179211",
+                    "description": "Odonto Premium",
+                    "encodingFormat": "image/jpeg",
+                    "fileExtension": "jpg",
+                    "title": "area-de-convivencia.jpg"
+                }
+            },
+            {
+                "imagemFiquePorDentro": {
+                    "contentUrl": "/documents/20124/0/auditorio.jpg/53aab51f-f885-41d1-0f09-2d5ee27ef5e1?t=1654194256797",
+                    "description": "Odonto Premium",
+                    "encodingFormat": "image/jpeg",
+                    "fileExtension": "jpg",
+                    "title": "auditorio.jpg"
+                }
+            },
+            {
+                "imagemFiquePorDentro": {
+                    "contentUrl": "/documents/20124/0/realidade-virtual.jpg/3387151b-8f0f-2d1d-93a3-e73fa5a1ff85?t=1654194324471",
+                    "description": "Odonto Premium",
+                    "encodingFormat": "image/jpeg",
+                    "fileExtension": "jpg",
+                    "title": "realidade-virtual.jpg"
+                }
+            },
+            {
+                "imagemFiquePorDentro": {
+                    "contentUrl": "/documents/20124/0/hall-entrada.jpg/9c4de224-79fb-249c-9d1a-27d322797296?t=1654194370722",
+                    "description": "Odonto Premium",
+                    "encodingFormat": "image/jpeg",
+                    "fileExtension": "jpg",
+                    "title": "hall-entrada.jpg"
+                }
+            },
+            {
+                "imagemFiquePorDentro": {
+                    "contentUrl": "/documents/20124/0/sala-de-aula.jpg/04ae733b-626e-a5a1-8ed0-b88d1a5ebb1c?t=1654194452849",
+                    "description": "Odonto Premium",
+                    "encodingFormat": "image/jpeg",
+                    "fileExtension": "jpg",
+                    "title": "sala-de-aula.jpg"
+                }
+            }
+        ]
+    },
+    {
+        "codigoCurso": 4001,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "HUMANAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/357362/PUBLICIDADE+E+PROPAGANDA.png/3ea7681d-5678-9e68-23a8-2729a959295e?t=1595641053978",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "PUBLICIDADE E PROPAGANDA.png"
+        },
+        "nome": "Nutrição Vegetariana e Vegana e Gastronomia Plant Based",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "P",
+            "D"
+        ],
+        "duracao": "4",
+        "slug": "nutricao-vegetariana-e-vegana-e-gastronomia-plant-based",
+        "linkVideo": [
+            {
+                "linkVideo": "SQBJRCyDaDw"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 2,
+        "numeroHabilitacao": 0,
+        "posicao": null,
+        "areaDeConhecimento": "HUMANAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/20124/334799/Admnistra%C3%A7%C3%A3o_card.png/048779c2-bbb0-b7d5-a7fa-0f481c46ce5a?t=1629220478143",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "Admnistração_card.png"
+        },
+        "nome": "Administração",
+        "textoCurto": "Mais procurados",
+        "textoImagemDeCatalogo": "Mais procurados",
+        "modalidade": [
+            "P",
+            "D",
+            "X",
+            "V"
+        ],
+        "duracao": "4",
+        "slug": "administracao",
+        "linkVideo": [
+            {
+                "linkVideo": "7gAi-nnzW8k"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 1,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "HUMANAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/20124/334799/Direito-+card.png/7ebba786-e195-9606-f1b5-bfddc9c515c2?t=1629221362711",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "Direito- card.png"
+        },
+        "nome": "Direito",
+        "textoCurto": "Mais procurados",
+        "textoImagemDeCatalogo": "Mais procurados",
+        "modalidade": [
+            "P"
+        ],
+        "duracao": "5",
+        "slug": "direito",
+        "linkVideo": [
+            {
+                "linkVideo": "Ad0Yf9T7KQ4"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 650,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "EXATAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/20124/334799/Engenharia+de+petr%C3%B3leo-card.png/8e34c1de-17c4-832a-eb36-b6d767fb59c7?t=1629224921002",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "Engenharia de petróleo-card.png"
+        },
+        "nome": "Engenharia de Petróleo",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "P"
+        ],
+        "duracao": "5",
+        "slug": "engenharia-de-petroleo",
+        "linkVideo": [
+            {
+                "linkVideo": "Ub7aSXRicDE"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 839,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "EXATAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/20124/334799/Engenharia+de+computa%C3%A7%C3%A3o-+card.png/5c729bc8-d681-e6d6-e5e4-924276f8ba42?t=1629224750313",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "Engenharia de computação- card.png"
+        },
+        "nome": "Engenharia da Computação",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "P"
+        ],
+        "duracao": "5",
+        "slug": "engenharia-da-computacao",
+        "linkVideo": [
+            {
+                "linkVideo": "rZh-xHlbZv8"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 29,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "BIOMEDICAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/316395/FISIOTERAPIA.jpg/c44dbfd0-0b95-c414-70d5-8686384fa123?t=1595608860677",
+            "description": "",
+            "encodingFormat": "image/jpeg",
+            "fileExtension": "jpg",
+            "title": "FISIOTERAPIA.jpg"
+        },
+        "nome": "Fisioterapia",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "P",
+            "S",
+            "X"
+        ],
+        "duracao": "5",
+        "slug": "fisioterapia",
+        "linkVideo": [
+            {
+                "linkVideo": "1tEJx5RX0d4"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 4340,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "EXATAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/331718/ANALISE_E_DESENVOLVIMENTO_DE_SISTEMAS.jpg/182523ef-87f4-3272-0842-4d3562a9dd24?t=1595607179210",
+            "description": "",
+            "encodingFormat": "image/jpeg",
+            "fileExtension": "jpg",
+            "title": "ANALISE_E_DESENVOLVIMENTO_DE_SISTEMAS.jpg"
+        },
+        "nome": "Análise e Desenvolvimento de Sistemas",
+        "textoCurto": "Mais procurados",
+        "textoImagemDeCatalogo": "Mais procurados",
+        "modalidade": [
+            "P",
+            "D",
+            "X",
+            "V"
+        ],
+        "duracao": "2,5",
+        "slug": "analise-e-desenvolvimento-de-sistemas",
+        "linkVideo": [
+            {
+                "linkVideo": "qC95Ebv_skY"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 38,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "EXATAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/331770/ARQUITETURA+E+URBANISMO.png/35f37c20-406a-adca-9106-fe98bfd6f702?t=1595607209276",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "ARQUITETURA E URBANISMO.png"
+        },
+        "nome": "Arquitetura e Urbanismo",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "P"
+        ],
+        "duracao": "5",
+        "slug": "arquitetura-e-urbanismo",
+        "linkVideo": [
+            {
+                "linkVideo": "gvh5ftGx6As"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 832,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "BIOMEDICAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/331797/BIOMEDICINA.png/d9b0f1b7-27e8-a935-5454-7243f7971fd8?t=1595607328980",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "BIOMEDICINA.png"
+        },
+        "nome": "Biomedicina",
+        "textoCurto": "Mais procurados",
+        "textoImagemDeCatalogo": "Mais procurados",
+        "modalidade": [
+            "P",
+            "S",
+            "X"
+        ],
+        "duracao": "4",
+        "slug": "biomedicina",
+        "linkVideo": [
+            {
+                "linkVideo": "AXjdaAbu5m4"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 4030,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "BIOMEDICAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/331810/CIENCIAS+BIOLOGICAS+BACHARELADO.jpg/843100e8-d432-f2ce-724e-7c8cec70c356?t=1595607495013",
+            "description": "",
+            "encodingFormat": "image/jpeg",
+            "fileExtension": "jpg",
+            "title": "CIENCIAS BIOLOGICAS BACHARELADO.jpg"
+        },
+        "nome": "Ciências Biológicas - Bacharelado",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "P",
+            "S",
+            "X"
+        ],
+        "duracao": "4",
+        "slug": "ciencias-biologicas-bacharelado",
+        "linkVideo": [
+            {
+                "linkVideo": "tfMs-5nibX0"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 463,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "BIOMEDICAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/20124/334799/Ciencias+biologicas+-+Licenciatura.png/2b514bd3-c156-0311-77a3-c7fff31e99ad?t=1577718056837",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "Ciencias biologicas - Licenciatura.png"
+        },
+        "nome": "Ciências Biológicas - Licenciatura",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "P",
+            "D",
+            "S",
+            "X"
+        ],
+        "duracao": "4",
+        "slug": "ciencias-biologicas-licenciatura",
+        "linkVideo": [
+            {
+                "linkVideo": "-wY04qFn22g"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 2215,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "EXATAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/331841/DESIGN.png/19a1f960-3089-4db4-0162-db22ba491719?t=1595608001275",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "DESIGN.png"
+        },
+        "nome": "Design",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "P"
+        ],
+        "duracao": "3,5",
+        "slug": "design",
+        "linkVideo": [
+            {
+                "linkVideo": "MujaAlerag0"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 166,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "BIOMEDICAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/20124/334799/Enfermagem-+card_.png/dc6816d4-79ab-ce46-e104-79aaa69ad26b?t=1629221469189",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "Enfermagem- card_.png"
+        },
+        "nome": "Enfermagem",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "P",
+            "X"
+        ],
+        "duracao": "5",
+        "slug": "enfermagem",
+        "linkVideo": [
+            {
+                "linkVideo": "dws7Mvd0CKk"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 167,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "BIOMEDICAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/20124/334799/Farm%C3%A1cia-card_.png/7f92d94f-63b2-0940-9a56-c9483e7d2d3e?t=1629225264687",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "Farmácia-card_.png"
+        },
+        "nome": "Farmácia",
+        "textoCurto": "Mais procurados",
+        "textoImagemDeCatalogo": "Mais procurados",
+        "modalidade": [
+            "P",
+            "S",
+            "X"
+        ],
+        "duracao": "5",
+        "slug": "farmacia",
+        "linkVideo": [
+            {
+                "linkVideo": "WOfP3mnXrkE"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 4345,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "HUMANAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/331910/GESTAO+AMBIENTAL.png/7790b29c-16a6-9e0a-289b-074b64f08a01?t=1595609087329",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "GESTAO AMBIENTAL.png"
+        },
+        "nome": "Gestão Ambiental",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "P",
+            "D",
+            "X",
+            "V"
+        ],
+        "duracao": "2",
+        "slug": "gestao-ambiental",
+        "linkVideo": [
+            {
+                "linkVideo": "_X6UVGIfJWM"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 4366,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "EXATAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/20124/334799/Gest%C3%A3o+Financeira-card.png/dd2c7593-350a-fed9-17be-b67aaa72b216?t=1629225489876",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "Gestão Financeira-card.png"
+        },
+        "nome": "Gestão Financeira",
+        "textoCurto": "Mais procurados",
+        "textoImagemDeCatalogo": "Mais procurados",
+        "modalidade": [
+            "P",
+            "D",
+            "X",
+            "V"
+        ],
+        "duracao": "2",
+        "slug": "gestao-financeira",
+        "linkVideo": [
+            {
+                "linkVideo": "rnQeBi_aYFk"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 4337,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "HUMANAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/331941/Gastronomia-+card.png/481e7933-6533-05e4-dcb0-70de9cb5e095?t=1632855907396",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "Gastronomia- card.png"
+        },
+        "nome": "Gastronomia",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "P"
+        ],
+        "duracao": "2",
+        "slug": "gastronomia",
+        "linkVideo": [
+            {
+                "linkVideo": "byQY39F_MJc"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 4000,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "HUMANAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/331954/JORNALISMO.jpg/0db26ae5-9dbc-742f-09a3-8916e402aea9?t=1595613138273",
+            "description": "",
+            "encodingFormat": "image/jpeg",
+            "fileExtension": "jpg",
+            "title": "JORNALISMO.jpg"
+        },
+        "nome": "Jornalismo",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "P",
+            "D"
+        ],
+        "duracao": "4",
+        "slug": "jornalismo",
+        "linkVideo": [
+            {
+                "linkVideo": "7e5dbSb_A_8"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 4341,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "HUMANAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/331967/MARKETING.png/ca548a30-d008-3945-e85c-878e43deca83?t=1595641296075",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "MARKETING.png"
+        },
+        "nome": "Marketing",
+        "textoCurto": "Mais procurados",
+        "textoImagemDeCatalogo": "Mais procurados",
+        "modalidade": [
+            "P",
+            "D",
+            "X",
+            "V"
+        ],
+        "duracao": "2",
+        "slug": "marketing",
+        "linkVideo": [
+            {
+                "linkVideo": ""
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 51,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "BIOMEDICAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/20124/334799/Medicina-card.png/c36baaa7-3300-4f8f-27fa-6677f7f70965?t=1629225759049",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "Medicina-card.png"
+        },
+        "nome": "Medicina",
+        "textoCurto": "Mais procurados",
+        "textoImagemDeCatalogo": "Mais procurados",
+        "modalidade": [
+            "P"
+        ],
+        "duracao": "6",
+        "slug": "medicina",
+        "linkVideo": [
+            {
+                "linkVideo": "wVBkk2S01oc"
+            },
+            {
+                "linkVideo": "-A5Se2HPoz8"
+            },
+            {
+                "linkVideo": "V9nILKJRFss"
+            },
+            {
+                "linkVideo": "aatKEmYSGHY"
+            },
+            {
+                "linkVideo": "QmvbbNfIfLc"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": {
+                    "contentUrl": "/documents/316123/331980/medicina+%281%29.jpg/3c120ff8-7c2a-5d59-617e-4c6e2d431014?t=1598884925871",
+                    "description": "Medicina Estácio",
+                    "encodingFormat": "image/jpeg",
+                    "fileExtension": "jpg",
+                    "title": "medicina (1).jpg"
+                }
+            },
+            {
+                "imagemFiquePorDentro": {
+                    "contentUrl": "/documents/316123/331980/area-de-convivencia.jpg/afd386c0-b2ca-a843-aebe-317bba01f982?t=1610403862653",
+                    "description": "Medicina Estácio",
+                    "encodingFormat": "image/jpeg",
+                    "fileExtension": "jpg",
+                    "title": "area-de-convivencia.jpg"
+                }
+            },
+            {
+                "imagemFiquePorDentro": {
+                    "contentUrl": "/documents/316123/331980/realidade-virtual.jpg/02101544-6469-ea45-8d35-8520aa87cd26?t=1610403862819",
+                    "description": "Medicina Estácio",
+                    "encodingFormat": "image/jpeg",
+                    "fileExtension": "jpg",
+                    "title": "realidade-virtual.jpg"
+                }
+            }
+        ]
+    },
+    {
+        "codigoCurso": 3386,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "HUMANAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/334753/Admnistra%C3%A7%C3%A3o+P%C3%BAblica_card.png/9b557c93-7153-9d7c-ac15-00d455bb7697?t=1632854985874",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "Admnistração Pública_card.png"
+        },
+        "nome": "Administração Pública",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "D"
+        ],
+        "duracao": "4",
+        "slug": "administracao-publica",
+        "linkVideo": [
+            {
+                "linkVideo": ""
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 4522,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "HUMANAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/339393/LETRAS+INGLES-segunda-licenciatura.jpg/d2b492b9-4097-6425-5eb3-615abaa843f4?t=1595639765423",
+            "description": "",
+            "encodingFormat": "image/jpeg",
+            "fileExtension": "jpg",
+            "title": "LETRAS INGLES-segunda-licenciatura.jpg"
+        },
+        "nome": "Letras - Inglês - Segunda Licenciatura",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "D"
+        ],
+        "duracao": "1,5",
+        "slug": "letras-ingles-segunda-licenciatura",
+        "linkVideo": [
+            {
+                "linkVideo": "KEWIDMPgaVo"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 4507,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "HUMANAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/20124/334799/Letras+-+Espanhol+-+Segunda+Licenciatura.png/4cfef8ef-bcb8-8146-d029-91146bd8a0d0?t=1577718050390",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "Letras - Espanhol - Segunda Licenciatura.png"
+        },
+        "nome": "Letras - Espanhol - Segunda Licenciatura",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "D"
+        ],
+        "duracao": "1,5",
+        "slug": "letras-espanhol-segunda-licenciatura",
+        "linkVideo": [
+            {
+                "linkVideo": "JLIGkne7Wrs"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 4506,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "HUMANAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/339440/PEDAGOGIA+SEGUNDA+LICENCIATURA.jpg/bb8e52f1-163b-4e8b-8b08-1d0fc19d6488?t=1595640348837",
+            "description": "",
+            "encodingFormat": "image/jpeg",
+            "fileExtension": "jpg",
+            "title": "PEDAGOGIA SEGUNDA LICENCIATURA.jpg"
+        },
+        "nome": "Pedagogia - Segunda Licenciatura",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "D"
+        ],
+        "duracao": "1,5",
+        "slug": "pedagogia-segunda-licenciatura",
+        "linkVideo": [
+            {
+                "linkVideo": ""
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 556,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "EXATAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/339511/CIENCIA+DA+COMPUTACAO.jpg/0eb9a932-1205-5976-b3fe-f4c59fb12c99?t=1595607358385",
+            "description": "",
+            "encodingFormat": "image/jpeg",
+            "fileExtension": "jpg",
+            "title": "CIENCIA DA COMPUTACAO.jpg"
+        },
+        "nome": "Ciências da Computação",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "P",
+            "D",
+            "X"
+        ],
+        "duracao": "4",
+        "slug": "ciencias-da-computacao",
+        "linkVideo": [
+            {
+                "linkVideo": "wl6QWr80EDw"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 945,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "HUMANAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/339524/ARTES_VISUAIS.jpg/aaab86b7-a217-f6b8-a0c5-c3ce1e0bc6b9?t=1595607238449",
+            "description": "",
+            "encodingFormat": "image/jpeg",
+            "fileExtension": "jpg",
+            "title": "ARTES_VISUAIS.jpg"
+        },
+        "nome": "Artes Visuais",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "D"
+        ],
+        "duracao": "4",
+        "slug": "artes-visuais",
+        "linkVideo": [
+            {
+                "linkVideo": "XR25Rc7wTuA"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 4229,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "EXATAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/339537/AUTOMACAO+INDUSTRIAL.jpg/63e9cbac-fba8-a3d3-d485-ead8302be106?t=1595607268078",
+            "description": "",
+            "encodingFormat": "image/jpeg",
+            "fileExtension": "jpg",
+            "title": "AUTOMACAO INDUSTRIAL.jpg"
+        },
+        "nome": "Automação Industrial",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "P",
+            "S"
+        ],
+        "duracao": "3",
+        "slug": "automacao-industrial",
+        "linkVideo": [
+            {
+                "linkVideo": "G488SjqwHj8"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 4018,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "HUMANAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/339550/Historia+-+Bacharelado.png/b7691f61-93c2-d4ed-abb0-5a022c9eac55?t=1595613219950",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "Historia - Bacharelado.png"
+        },
+        "nome": "História - Bacharelado",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "D"
+        ],
+        "duracao": "3",
+        "slug": "historia-bacharelado",
+        "linkVideo": [
+            {
+                "linkVideo": "O5t9GYApEaw"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 4511,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "EXATAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/339563/MATEMATICA+BACHAREL.png/772f1e3d-bf55-da21-2f3d-bcd7d3f259ec?t=1595641253657",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "MATEMATICA BACHAREL.png"
+        },
+        "nome": "Matemática - Bacharelado",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "D"
+        ],
+        "duracao": "3",
+        "slug": "matematica-bacharelado",
+        "linkVideo": [
+            {
+                "linkVideo": "vGJ6TiSo0tc"
+            }
+        ],
+        "imagemFiquePorDentro": null
+    },
+    {
+        "codigoCurso": 4202,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "EXATAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/339576/BANCO+DE+DADOS.jpg/088da2d0-aa98-d1fc-43d5-90d0b6b98d48?t=1595607295058",
+            "description": "",
+            "encodingFormat": "image/jpeg",
+            "fileExtension": "jpg",
+            "title": "BANCO DE DADOS.jpg"
+        },
+        "nome": "Banco de Dados",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "D"
+        ],
+        "duracao": "2,5",
+        "slug": "banco-de-dados",
+        "linkVideo": [
+            {
+                "linkVideo": "CXgyk25enOA"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 3388,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "EXATAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/355524/Ci%C3%AAncia+de+dados-+card.png/a9752a91-2b34-a283-2600-9ef796193017?t=1632855518919",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "Ciência de dados- card.png"
+        },
+        "nome": "Ciência de Dados",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "D"
+        ],
+        "duracao": "2,5",
+        "slug": "ciencia-de-dados",
+        "linkVideo": [
+            {
+                "linkVideo": ""
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 6000,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "EXATAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/355537/CIENCIAS+AERONAUTICAS.png/f209a93d-94ab-b23c-d620-5edc862bb8ec?t=1595607417483",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "CIENCIAS AERONAUTICAS.png"
+        },
+        "nome": "Ciências Aeronáuticas",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "P"
+        ],
+        "duracao": "4",
+        "slug": "ciencias-aeronauticas",
+        "linkVideo": [
+            {
+                "linkVideo": ""
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 22,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "EXATAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/355560/CIENCIAS+CONTABEIS.png/691f6512-e354-1b72-0041-9f7eba1928ad?t=1595607546544",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "CIENCIAS CONTABEIS.png"
+        },
+        "nome": "Ciências Contábeis",
+        "textoCurto": "Mais procurados",
+        "textoImagemDeCatalogo": "Mais procurados",
+        "modalidade": [
+            "P",
+            "D",
+            "X"
+        ],
+        "duracao": "4",
+        "slug": "ciencias-contabeis",
+        "linkVideo": [
+            {
+                "linkVideo": "mWM560si6Dg"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 4519,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "HUMANAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/355575/CIENCIAS+DA+NATUREZA.png/b508759d-243c-6a14-f518-f33d8e60d564?t=1595607582062",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "CIENCIAS DA NATUREZA.png"
+        },
+        "nome": "Ciências da Natureza",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "D"
+        ],
+        "duracao": "3",
+        "slug": "ciencias-da-natureza",
+        "linkVideo": [
+            {
+                "linkVideo": "G0nyyymUa4Y"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 3,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "EXATAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/355588/CIENCIAS+ECONOMICAS.png/e21d50b8-3b25-897e-e091-740a3ee8cc7c?t=1595607608503",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "CIENCIAS ECONOMICAS.png"
+        },
+        "nome": "Ciências Econômicas",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "P",
+            "D"
+        ],
+        "duracao": "4",
+        "slug": "ciencias-economicas",
+        "linkVideo": [
+            {
+                "linkVideo": "LiQMtS3FzmQ"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 4520,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "EXATAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/355614/CIENCIAS+EXATAS.png/a53c7edc-5586-1b1e-92cc-66510b45fa8a?t=1595607639042",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "CIENCIAS EXATAS.png"
+        },
+        "nome": "Ciências Exatas",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "D"
+        ],
+        "duracao": "3",
+        "slug": "ciencias-exatas",
+        "linkVideo": [
+            {
+                "linkVideo": "Umzt2UoxYw0"
+            }
+        ],
+        "imagemFiquePorDentro": null
+    },
+    {
+        "codigoCurso": 4521,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "HUMANAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/355627/CIENCIAS+HUMANAS.png/dd482b44-e8b5-53b7-536c-aa7a5c2998bb?t=1595607689665",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "CIENCIAS HUMANAS.png"
+        },
+        "nome": "Ciências Humanas",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "D"
+        ],
+        "duracao": "3",
+        "slug": "ciencias-humanas",
+        "linkVideo": [
+            {
+                "linkVideo": "u-dwcJGUuLQ"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 48,
+        "numeroHabilitacao": 0,
+        "posicao": null,
+        "areaDeConhecimento": "HUMANAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/355640/CINEMA.jpg/96df4ed8-13a8-f944-8bbe-3369e581e07e?t=1595607730309",
+            "description": "",
+            "encodingFormat": "image/jpeg",
+            "fileExtension": "jpg",
+            "title": "CINEMA.jpg"
+        },
+        "nome": "Cinema",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "P"
+        ],
+        "duracao": "4",
+        "slug": "cinema",
+        "linkVideo": [
+            {
+                "linkVideo": "OZErlFii-is"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 4342,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "HUMANAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/355653/COMERCIO+EXTERIOR.png/37b8bcdb-3704-b6ba-ef03-5f2ed99d5653?t=1595607756639",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "COMERCIO EXTERIOR.png"
+        },
+        "nome": "Comércio Exterior",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "D"
+        ],
+        "duracao": "2",
+        "slug": "comercio-exterior",
+        "linkVideo": [
+            {
+                "linkVideo": "phLrddCF7lQ"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 4389,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "HUMANAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/355684/COZINHA+CONTEMPORANEA.png/38894c7f-b6a3-6074-cea1-e998cbdab48d?t=1595607827569",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "COZINHA CONTEMPORANEA.png"
+        },
+        "nome": "Cozinha Contemporânea",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "D"
+        ],
+        "duracao": "2",
+        "slug": "cozinha-contemporanea",
+        "linkVideo": [
+            {
+                "linkVideo": "yChT176UFK8"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 4093,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "EXATAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/355697/DEFESA_CIBERNETICA.jpg/0ddb17cc-3d27-1e61-a5cd-a537bcbc84bf?t=1595607866098",
+            "description": "",
+            "encodingFormat": "image/jpeg",
+            "fileExtension": "jpg",
+            "title": "DEFESA_CIBERNETICA.jpg"
+        },
+        "nome": "Defesa Cibernética",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "D"
+        ],
+        "duracao": "2,5",
+        "slug": "defesa-cibernetica",
+        "linkVideo": [
+            {
+                "linkVideo": "lxVAsJixMT0"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 4056,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "EXATAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/355716/DESIGN+DE+INTERIORES.png/cf4cbfc7-eeed-2712-8654-bca6c2670943?t=1595607904493",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "DESIGN DE INTERIORES.png"
+        },
+        "nome": "Design de Interiores",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "P"
+        ],
+        "duracao": "2,5",
+        "slug": "design-de-interiores",
+        "linkVideo": [
+            {
+                "linkVideo": "G-e9Q2lhmys"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 775,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "EXATAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/355747/DESIGN+DE+MODA-bacharelado.jpg/590935f1-750a-5cb4-c973-342e391b6ac8?t=1595607940818",
+            "description": "",
+            "encodingFormat": "image/jpeg",
+            "fileExtension": "jpg",
+            "title": "DESIGN DE MODA-bacharelado.jpg"
+        },
+        "nome": "Design de Moda - Bacharelado",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "P"
+        ],
+        "duracao": "3,5",
+        "slug": "design-de-moda-bacharelado",
+        "linkVideo": [
+            {
+                "linkVideo": "rJ6RKGOJLSw"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 4350,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "HUMANAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/20124/334799/DESIGN+DE+MODA-ALTERADO.jpg/f55576a3-1b89-315a-e9fe-6c6c77a5f0cf?t=1594258312692",
+            "description": "Design de Moda",
+            "encodingFormat": "image/jpeg",
+            "fileExtension": "jpg",
+            "title": "DESIGN DE MODA-ALTERADO.jpg"
+        },
+        "nome": "Design de Moda - Tecnólogo",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "P"
+        ],
+        "duracao": "2,5",
+        "slug": "design-de-moda-tecnologo",
+        "linkVideo": [
+            {
+                "linkVideo": "rJ6RKGOJLSw"
+            }
+        ],
+        "imagemFiquePorDentro": null
+    },
+    {
+        "codigoCurso": 4084,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "EXATAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/355775/DESIGN+GRAFICO.jpg/87f6c6a9-7dc1-39be-1cc4-7db99887ecd3?t=1595607967991",
+            "description": "",
+            "encodingFormat": "image/jpeg",
+            "fileExtension": "jpg",
+            "title": "DESIGN GRAFICO.jpg"
+        },
+        "nome": "Design Gráfico",
+        "textoCurto": "Mais procurados",
+        "textoImagemDeCatalogo": "Mais procurados",
+        "modalidade": [
+            "P"
+        ],
+        "duracao": "2,5",
+        "slug": "design-grafico",
+        "linkVideo": [
+            {
+                "linkVideo": "LnnpBdd2eMg"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 4004,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "BIOMEDICAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/355795/Educacao+fisica+-+Bacharelado.png/31accfc9-6f27-a432-1cb5-91d42017948b?t=1595608077119",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "Educacao fisica - Bacharelado.png"
+        },
+        "nome": "Educação Física - Bacharelado",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "P",
+            "S",
+            "X"
+        ],
+        "duracao": "4",
+        "slug": "educacao-fisica-bacharelado",
+        "linkVideo": [
+            {
+                "linkVideo": "raaJWkaukL0"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 4003,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "BIOMEDICAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/355808/Educacao+fisica+-+Licenciatura.png/72e054c6-ed7a-6a8e-69ef-4e5f565c6037?t=1595608103341",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "Educacao fisica - Licenciatura.png"
+        },
+        "nome": "Educação Física - Licenciatura",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "P",
+            "S",
+            "X"
+        ],
+        "duracao": "4",
+        "slug": "educacao-fisica-licenciatura",
+        "linkVideo": [
+            {
+                "linkVideo": "-3LBy9YxE2U"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 774,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "EXATAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/355829/ENGENHARIA+AMBIENTAL+E+SANITARIA.png/d2ae3bf7-1c0e-471d-8b99-0c5e007ce91c?t=1595608238977",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "ENGENHARIA AMBIENTAL E SANITARIA.png"
+        },
+        "nome": "Engenharia Ambiental e Sanitária",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "P"
+        ],
+        "duracao": "5",
+        "slug": "engenharia-ambiental-e-sanitaria",
+        "linkVideo": [
+            {
+                "linkVideo": "WlrQsKA1Pmc"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 372,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "EXATAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/355842/ENGENHARIA_CIVIL.jpg/333942a4-528f-6267-c6fe-fb19204c35d7?t=1595608469672",
+            "description": "",
+            "encodingFormat": "image/jpeg",
+            "fileExtension": "jpg",
+            "title": "ENGENHARIA_CIVIL.jpg"
+        },
+        "nome": "Engenharia Civil",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "P",
+            "S",
+            "X"
+        ],
+        "duracao": "5",
+        "slug": "engenharia-civil",
+        "linkVideo": [
+            {
+                "linkVideo": "OOwnZGhtGHw"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 4002,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "EXATAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/20124/334799/Engenharia+de+controle+e+automa%C3%A7%C3%A3o-card.png/ddb178a8-0586-c7f4-acee-0074586f7710?t=1629224842264",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "Engenharia de controle e automação-card.png"
+        },
+        "nome": "Engenharia de Controle e Automação",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "P"
+        ],
+        "duracao": "5",
+        "slug": "engenharia-de-controle-e-automacao",
+        "linkVideo": [
+            {
+                "linkVideo": "vlQsZy2OwaA"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 207,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "EXATAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/356270/Engenharia+de+Produ%C3%A7%C3%A3o-+card_.png/2ad7e419-e474-e7bc-cfbb-bc3ae81d04da?t=1632855766405",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "Engenharia de Produção- card_.png"
+        },
+        "nome": "Engenharia de Produção",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "P",
+            "S",
+            "X",
+            "V"
+        ],
+        "duracao": "5",
+        "slug": "engenharia-de-producao",
+        "linkVideo": [
+            {
+                "linkVideo": "5opla4LmCRc"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 3389,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "EXATAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/20124/334799/Engenharia+de+Software-card.png/1ec96aed-1d1f-38b4-f4f1-86ea88f7f098?t=1629224994301",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "Engenharia de Software-card.png"
+        },
+        "nome": "Engenharia de Software",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "D"
+        ],
+        "duracao": "4",
+        "slug": "engenharia-de-software",
+        "linkVideo": [
+            {
+                "linkVideo": "l3XdlVPTydM"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 1177,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "EXATAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/20124/334799/Engenharia+de+Telecomunica%C3%A7%C3%A3oes-card_.png/b14d57f0-6c7a-7d76-562b-a49e2aa7d26b?t=1629225068198",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "Engenharia de Telecomunicaçãoes-card_.png"
+        },
+        "nome": "Engenharia de Telecomunicações",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "P"
+        ],
+        "duracao": "5",
+        "slug": "engenharia-de-telecomunicacoes",
+        "linkVideo": [
+            {
+                "linkVideo": "ZlKVSzTdvCU"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 862,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "EXATAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/20124/334799/Engenharia+El%C3%A9trica-card.png/e03ed38a-5dbb-e368-fabe-68a8b1a63190?t=1629225149432",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "Engenharia Elétrica-card.png"
+        },
+        "nome": "Engenharia Elétrica",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "P",
+            "S",
+            "X"
+        ],
+        "duracao": "5",
+        "slug": "engenharia-eletrica",
+        "linkVideo": [
+            {
+                "linkVideo": "BMXhC1JcLZE"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 841,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "EXATAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/20124/334799/Engenharia+Mecanica-card_.png/78a4bfec-6afc-f412-95bb-8dc617465e0c?t=1629225206263",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "Engenharia Mecanica-card_.png"
+        },
+        "nome": "Engenharia Mecânica",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "P",
+            "S",
+            "X"
+        ],
+        "duracao": "5",
+        "slug": "engenharia-mecanica",
+        "linkVideo": [
+            {
+                "linkVideo": "uytJ8K1owyg"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 825,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "EXATAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/356375/ENGENHARIA+QUIMICA.jpg/2058250e-1c2b-e219-e3ff-05f00d1a5f91?t=1595608438714",
+            "description": "",
+            "encodingFormat": "image/jpeg",
+            "fileExtension": "jpg",
+            "title": "ENGENHARIA QUIMICA.jpg"
+        },
+        "nome": "Engenharia Química",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            ""
+        ],
+        "duracao": "4",
+        "slug": "engenharia-quimica",
+        "linkVideo": [
+            {
+                "linkVideo": "lmVZGInvzHw"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 2219,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "BIOMEDICAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/356403/ESTETICA.png/7899a146-8629-f3d9-c668-4256f155a6da?t=1595608610083",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "ESTETICA.png"
+        },
+        "nome": "Estética",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "P"
+        ],
+        "duracao": "3",
+        "slug": "estetica",
+        "linkVideo": [
+            {
+                "linkVideo": "8rfV2kqEyOw"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 4200,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "BIOMEDICAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/356416/ESTETICA+E+COSMETICA.png/8b711350-afa2-3c6d-dffc-068bd57e07d9?t=1595608675773",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "ESTETICA E COSMETICA.png"
+        },
+        "nome": "Estética e Cosmética",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "P",
+            "S",
+            "X"
+        ],
+        "duracao": "2,5",
+        "slug": "estetica-e-cosmetica",
+        "linkVideo": [
+            {
+                "linkVideo": "sX67DafxaMc"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 645,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "HUMANAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/356448/FILOSOFIA.jpg/37090b7e-2352-44d7-f552-46001bad322f?t=1595608806954",
+            "description": "",
+            "encodingFormat": "image/jpeg",
+            "fileExtension": "jpg",
+            "title": "FILOSOFIA.jpg"
+        },
+        "nome": "Filosofia",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "D"
+        ],
+        "duracao": "4",
+        "slug": "filosofia",
+        "linkVideo": [
+            {
+                "linkVideo": "Uz-fWUL0bXI"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 7113,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "EXATAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/356461/FISICA.jpg/a7c68e77-f52d-64ed-4f19-1cfa52d4e6ee?t=1595608832972",
+            "description": "",
+            "encodingFormat": "image/jpeg",
+            "fileExtension": "jpg",
+            "title": "FISICA.jpg"
+        },
+        "nome": "Física",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "S"
+        ],
+        "duracao": "4",
+        "slug": "fisica",
+        "linkVideo": [
+            {
+                "linkVideo": "M3NkQREwx4o"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 4059,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "HUMANAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/356480/Fotografia.png/1b5ae5d6-9d74-ae88-3927-5b630baa807b?t=1595608901176",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "Fotografia.png"
+        },
+        "nome": "Fotografia",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "P"
+        ],
+        "duracao": "2,5",
+        "slug": "fotografia",
+        "linkVideo": [
+            {
+                "linkVideo": "gqy6iyA6si0"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 4020,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "HUMANAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/356500/GEOGRAFIA+BACHARELADO.png/e2bdac92-6cde-e6d2-8092-33a9c8bbe63b?t=1595608991090",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "GEOGRAFIA BACHARELADO.png"
+        },
+        "nome": "Geografia - Bacharelado",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "D"
+        ],
+        "duracao": "3",
+        "slug": "geografia-bacharelado",
+        "linkVideo": [
+            {
+                "linkVideo": "sd4GKKbvIUg"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 4509,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "HUMANAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/356513/GEOGRAFIA+SEGUNDA+LICENCIATURA.png/f9204fb1-907b-cd57-3cca-b93a13dc1671?t=1595609023215",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "GEOGRAFIA SEGUNDA LICENCIATURA.png"
+        },
+        "nome": "Geografia - Segunda Licenciatura",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "D"
+        ],
+        "duracao": "1,5",
+        "slug": "geografia-segunda-licenciatura",
+        "linkVideo": [
+            {
+                "linkVideo": "qVbVi604twE"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 4516,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "HUMANAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/356526/GERONTOLOGIA.png/c230e3d9-4c9e-778e-9ce3-2b2c3ba1c22d?t=1595609055312",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "GERONTOLOGIA.png"
+        },
+        "nome": "Gerontologia - Bem Estar e Educação",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "D"
+        ],
+        "duracao": "2",
+        "slug": "gerontologia-bem-estar-e-educacao",
+        "linkVideo": [
+            {
+                "linkVideo": "HHNx9p4a8yc"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 4347,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "HUMANAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/20124/334799/Gest%C3%A3o+Comercial-card_.png/94f8aaa7-fcab-b7fa-eb25-ddfeceec6d8d?t=1629225353444",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "Gestão Comercial-card_.png"
+        },
+        "nome": "Gestão Comercial",
+        "textoCurto": "Mais procurados",
+        "textoImagemDeCatalogo": "Mais procurados",
+        "modalidade": [
+            "P",
+            "D",
+            "X",
+            "V"
+        ],
+        "duracao": "2",
+        "slug": "gestao-comercial",
+        "linkVideo": [
+            {
+                "linkVideo": "fcxRlxRdaXo"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 4390,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "EXATAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/356552/GESTAO+DE+PRODUCAO+INDUSTRIAL.png/5aa778ee-1304-6c8d-cc83-7944a1514b29?t=1595612848337",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "GESTAO DE PRODUCAO INDUSTRIAL.png"
+        },
+        "nome": "Gestão de Produção Industrial",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "D"
+        ],
+        "duracao": "3",
+        "slug": "gestao-de-producao-industrial",
+        "linkVideo": [
+            {
+                "linkVideo": "Dy5v9BHFaM0"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 4334,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "EXATAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/356565/GESTAO_DA_TECNOLOGIA_DA_INFORMACAO.jpg/5b8fc2ff-1cf2-9d5f-0e8f-793bf65600ea?t=1595639516336",
+            "description": "",
+            "encodingFormat": "image/jpeg",
+            "fileExtension": "jpg",
+            "title": "GESTAO_DA_TECNOLOGIA_DA_INFORMACAO.jpg"
+        },
+        "nome": "Gestão da Tecnologia da Informação",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "P",
+            "D"
+        ],
+        "duracao": "2,5",
+        "slug": "gestao-da-tecnologia-da-informacao",
+        "linkVideo": [
+            {
+                "linkVideo": "Z_BCeJ4JJtM"
+            }
+        ],
+        "imagemFiquePorDentro": null
+    },
+    {
+        "codigoCurso": 4370,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "HUMANAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/356578/Gestao+da+Qualidade.png/2ef4d348-7002-a120-cb90-5ccea17c86f9?t=1595612813314",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "Gestao da Qualidade.png"
+        },
+        "nome": "Gestão da Qualidade",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "P",
+            "D"
+        ],
+        "duracao": "2",
+        "slug": "gestao-da-qualidade",
+        "linkVideo": [
+            {
+                "linkVideo": "iaVRWU3r0DM"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 4070,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "HUMANAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/356591/Gest%C3%A3o+de+recursos+humanos-card.png/466157b7-9efb-95c7-b620-9e98a9822921?t=1632856119830",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "Gestão de recursos humanos-card.png"
+        },
+        "nome": "Gestão de Recursos Humanos",
+        "textoCurto": "Mais procurados",
+        "textoImagemDeCatalogo": "Mais procurados",
+        "modalidade": [
+            "P",
+            "D",
+            "X",
+            "V"
+        ],
+        "duracao": "2",
+        "slug": "gestao-de-recursos-humanos",
+        "linkVideo": [
+            {
+                "linkVideo": "KaGsWWSapC4"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 4335,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "HUMANAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/356620/Gest%C3%A3o+de+Turismo-card.png/1110d55b-aead-7534-3aa4-98bc71135913?t=1632856770567",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "Gestão de Turismo-card.png"
+        },
+        "nome": "Gestão de Turismo",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "D"
+        ],
+        "duracao": "2",
+        "slug": "gestao-de-turismo",
+        "linkVideo": [
+            {
+                "linkVideo": "kU4_fDgk-G4"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 4515,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "HUMANAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/20124/334799/Gest%C3%A3o+e+Empreendedorismol-card.png/92018f66-f08a-1414-9aef-0de656266941?t=1629225429300",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "Gestão e Empreendedorismol-card.png"
+        },
+        "nome": "Gestão e Empreendedorismo",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "D"
+        ],
+        "duracao": "4",
+        "slug": "gestao-e-empreendedorismo",
+        "linkVideo": [
+            {
+                "linkVideo": "-t_QyqFf7wk"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 4346,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "HUMANAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/356659/Gestao+de+seguranca+privada.png/770d9055-5f0c-962b-4b59-fddab7d4d25e?t=1595612904561",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "Gestao de seguranca privada.png"
+        },
+        "nome": "Gestão de Segurança Privada",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "P",
+            "D"
+        ],
+        "duracao": "2",
+        "slug": "gestao-de-seguranca-privada",
+        "linkVideo": [
+            {
+                "linkVideo": "USiDfVnjL4k"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 4076,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "BIOMEDICAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/20124/334799/Gest%C3%A3oHospitalar-card.png/831a2f06-7d9c-a51a-5490-657f9fbdf25b?t=1629225548767",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "GestãoHospitalar-card.png"
+        },
+        "nome": "Gestão Hospitalar",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "P",
+            "D"
+        ],
+        "duracao": "3",
+        "slug": "gestao-hospitalar",
+        "linkVideo": [
+            {
+                "linkVideo": "RWuzxVgjJWk"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 4292,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "HUMANAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/20124/334799/Gest%C3%A3o+P%C3%BAblica-card.png/5f98eabc-966b-f468-7efc-71e48eea20ac?t=1629225605549",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "Gestão Pública-card.png"
+        },
+        "nome": "Gestão Pública",
+        "textoCurto": "Mais procurados",
+        "textoImagemDeCatalogo": "Mais procurados",
+        "modalidade": [
+            "D"
+        ],
+        "duracao": "2",
+        "slug": "gestao-publica",
+        "linkVideo": [
+            {
+                "linkVideo": ""
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 4510,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "HUMANAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/356737/LETRAS+LINGUA+PORTUGUESA+BACHARELADO.png/5889b30b-8cbe-9acb-3abe-8d1d0317039f?t=1595641475835",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "LETRAS LINGUA PORTUGUESA BACHARELADO.png"
+        },
+        "nome": "Letras - Língua Portuguesa",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "D"
+        ],
+        "duracao": "3",
+        "slug": "letras-lingua-portuguesa",
+        "linkVideo": [
+            {
+                "linkVideo": "qrxQ66C5VwI"
+            }
+        ],
+        "imagemFiquePorDentro": null
+    },
+    {
+        "codigoCurso": 4500,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "HUMANAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/356768/Historia+-+formacao+pedagogica.png/f12a1543-47d3-186d-ab20-2ef1ab8cdc64?t=1595613638568",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "Historia - formacao pedagogica.png"
+        },
+        "nome": "História - Formação Pedagógica",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "D"
+        ],
+        "duracao": "1,5",
+        "slug": "historia-formacao-pedagogica",
+        "linkVideo": [
+            {
+                "linkVideo": "yMKNKPa7Zi4"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 4081,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "HUMANAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/356781/INVESTIGACAO+FORENSE.png/2e4e430d-2726-771a-d560-1f538b186316?t=1595613170826",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "INVESTIGACAO FORENSE.png"
+        },
+        "nome": "Investigação Forense e Perícia Criminal",
+        "textoCurto": "Mais procurados",
+        "textoImagemDeCatalogo": "Mais procurados",
+        "modalidade": [
+            "D"
+        ],
+        "duracao": "2,5",
+        "slug": "investigacao-forense-e-pericia-criminal",
+        "linkVideo": [
+            {
+                "linkVideo": "RSsxPjm_8cg"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 4355,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "EXATAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/356807/Jogos+digitais-card.png/ed3fdc69-7749-3d40-cb42-a43241bc1789?t=1632858827186",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "Jogos digitais-card.png"
+        },
+        "nome": "Jogos Digitais",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "P",
+            "D"
+        ],
+        "duracao": "2,5",
+        "slug": "jogos-digitais",
+        "linkVideo": [
+            {
+                "linkVideo": "-mHRJ4pwgZs"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 4523,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "EXATAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/20124/334799/Computacao.png/68d633f0-7fa4-7e24-c930-1bd4db3ba099?t=1577718059260",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "Computacao.png"
+        },
+        "nome": "Computação - Licenciatura",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "D"
+        ],
+        "duracao": "4",
+        "slug": "computacao-licenciatura",
+        "linkVideo": [
+            {
+                "linkVideo": "MbyZS2bt4Cs"
+            }
+        ],
+        "imagemFiquePorDentro": null
+    },
+    {
+        "codigoCurso": 4026,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "HUMANAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/356929/LETRAS+ESPANHOL.png/2df208b4-7f06-498e-98a6-99f6ee999bc7?t=1595640925713",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "LETRAS ESPANHOL.png"
+        },
+        "nome": "Letras - Espanhol",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "D"
+        ],
+        "duracao": "4",
+        "slug": "letras-espanhol",
+        "linkVideo": [
+            {
+                "linkVideo": "E9p6KnwVCtA"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 4019,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "HUMANAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/356955/Geografia+-+Licenciatura.png/349e650d-27de-8bef-41cb-24e77420bb12?t=1595608965902",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "Geografia - Licenciatura.png"
+        },
+        "nome": "Geografia - Licenciatura",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "D"
+        ],
+        "duracao": "4",
+        "slug": "geografia-licenciatura",
+        "linkVideo": [
+            {
+                "linkVideo": "3tyr0dXN0qs"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 4017,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "HUMANAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/356981/Historia-Licenciatura.png/eacb4d99-6f84-1dfe-c6ee-056a7d82311b?t=1595613261612",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "Historia-Licenciatura.png"
+        },
+        "nome": "História - Licenciatura",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "P",
+            "D"
+        ],
+        "duracao": "4",
+        "slug": "historia-licenciatura",
+        "linkVideo": [
+            {
+                "linkVideo": "Opd1jP7FeDs"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 4502,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "HUMANAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/356994/Letras+Lingua+portuguesa+-card.png/6c17d1b5-00af-6b00-8630-facd27defebe?t=1632858978323",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "Letras Lingua portuguesa -card.png"
+        },
+        "nome": "Letras - Língua Portuguesa - Formação Pedagógica",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "D"
+        ],
+        "duracao": "1,5",
+        "slug": "letras-lingua-portuguesa-formacao-pedagogica",
+        "linkVideo": [
+            {
+                "linkVideo": "DtPixF9NRBU"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 4508,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "HUMANAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/357007/LETRAS+ESPANHOL+FORMACAO+PEDAGOGICA.png/b6e7acc7-cfc2-5329-18af-b42021233632?t=1595640893736",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "LETRAS ESPANHOL FORMACAO PEDAGOGICA.png"
+        },
+        "nome": "Letras - Espanhol - Formação Pedagógica - Licenciatura",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "D"
+        ],
+        "duracao": "1,5",
+        "slug": "letras-espanhol-formacao-pedagogica",
+        "linkVideo": [
+            {
+                "linkVideo": "2KGFIDcB42U"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 4501,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "HUMANAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/357020/LETRAS+INGLES+FORMACAO+PEDAGOGICA.png/b63779a4-5828-2d36-dcb3-e376c5e7cd6d?t=1595639717196",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "LETRAS INGLES FORMACAO PEDAGOGICA.png"
+        },
+        "nome": "Letras - Inglês - Formação Pedagógica - Licenciatura",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "D"
+        ],
+        "duracao": "1,5",
+        "slug": "letras-ingles-formacao-pedagogica",
+        "linkVideo": [
+            {
+                "linkVideo": "5lwMVOVSaX4"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 4022,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "HUMANAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/357048/LETRAS_LINGUA_PORTUGUESA_LICENCIATURA.jpg/a157798c-7fd2-df56-5205-f218392887b8?t=1595639891111",
+            "description": "",
+            "encodingFormat": "image/jpeg",
+            "fileExtension": "jpg",
+            "title": "LETRAS_LINGUA_PORTUGUESA_LICENCIATURA.jpg"
+        },
+        "nome": "Letras - Língua Portuguesa - Licenciatura",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "D"
+        ],
+        "duracao": "4",
+        "slug": "letras-lingua-portuguesa-licenciatura",
+        "linkVideo": [
+            {
+                "linkVideo": "9eLqW2KxYe0"
+            }
+        ],
+        "imagemFiquePorDentro": null
+    },
+    {
+        "codigoCurso": 10,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "EXATAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/357074/MATEMATICA+LICENCIATURA.png/71d6f8b1-fc9a-7ea6-b928-43aeea5104fa?t=1595641195863",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "MATEMATICA LICENCIATURA.png"
+        },
+        "nome": "Matemática - Licenciatura",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "P",
+            "D"
+        ],
+        "duracao": "4",
+        "slug": "matematica-licenciatura",
+        "linkVideo": [
+            {
+                "linkVideo": "hx8hlParec8"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 2963,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "EXATAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/357087/MATEMATICA+FORMACAO+PEDAGOGICA.png/21005864-12f7-bbd2-ea0e-48ef67966978?t=1595641160005",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "MATEMATICA FORMACAO PEDAGOGICA.png"
+        },
+        "nome": "Matemática - Formação Pedagógica - Licenciatura",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "D"
+        ],
+        "duracao": "1,5",
+        "slug": "matematica-formacao-pedagogica-licenciatura",
+        "linkVideo": [
+            {
+                "linkVideo": "RQuuOtHrlZ4"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 4021,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "HUMANAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/357100/Teatro-card.png/75c38d8a-2c7f-6334-76d4-9707b2bf0a02?t=1632859564322",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "Teatro-card.png"
+        },
+        "nome": "Teatro - Licenciatura",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "P"
+        ],
+        "duracao": "4",
+        "slug": "teatro-licenciatura",
+        "linkVideo": [
+            {
+                "linkVideo": "mZguqRY8VvA"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 4024,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "HUMANAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/20124/334799/Letras+-+Ingles.png/715398d9-cba8-e836-4f3b-d357a22e7dfa?t=1577718051113",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "Letras - Ingles.png"
+        },
+        "nome": "Letras - Inglês - Licenciatura",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "D",
+            "V"
+        ],
+        "duracao": "4",
+        "slug": "letras-ingles-licenciatura",
+        "linkVideo": [
+            {
+                "linkVideo": "KEWIDMPgaVo"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 4339,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "HUMANAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/20124/334799/Logistica-card_.png/0cd889c0-1c0f-e090-5a74-62efb979ff55?t=1629225692066",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "Logistica-card_.png"
+        },
+        "nome": "Logística",
+        "textoCurto": "Mais procurados",
+        "textoImagemDeCatalogo": "Mais procurados",
+        "modalidade": [
+            "P",
+            "D",
+            "X",
+            "V"
+        ],
+        "duracao": "2",
+        "slug": "logistica",
+        "linkVideo": [
+            {
+                "linkVideo": "LRoXPgbAWXI"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 4329,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "EXATAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/357139/Manuten%C3%A7%C3%A3o+Industrial-card.png/12e72a4c-71a8-bbec-4968-222b9e03c7cd?t=1632859045302",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "Manutenção Industrial-card.png"
+        },
+        "nome": "Manutenção Industrial",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "P"
+        ],
+        "duracao": "3",
+        "slug": "manutencao-industrial",
+        "linkVideo": [
+            {
+                "linkVideo": "Gzjj5Wzdz2M"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 4080,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "HUMANAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/357165/MEDIACAO.png/8a7944ff-ed8e-475b-576f-cb960924cfe6?t=1595639995221",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "MEDIACAO.png"
+        },
+        "nome": "Mediação",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "D"
+        ],
+        "duracao": "2,5",
+        "slug": "mediacao",
+        "linkVideo": [
+            {
+                "linkVideo": "a-GTNtWjh9Q"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 46,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "BIOMEDICAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/357178/Medicina+veterin%C3%A1ria-card.png/8ff56874-7197-0a5a-b520-22db49e2d9da?t=1632859238887",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "Medicina veterinária-card.png"
+        },
+        "nome": "Medicina Veterinária",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "P",
+            "X"
+        ],
+        "duracao": "5",
+        "slug": "medicina-veterinaria",
+        "linkVideo": [
+            {
+                "linkVideo": "PU6P5k1njKQ"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 4079,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "HUMANAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/357191/Negocios+Imobiliarios.png/7b570e4c-a860-c062-bffc-7ad98345043f?t=1595640100656",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "Negocios Imobiliarios.png"
+        },
+        "nome": "Negócios Imobiliários",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "D"
+        ],
+        "duracao": "2",
+        "slug": "negocios-imobiliarios",
+        "linkVideo": [
+            {
+                "linkVideo": "4hE0mUGDY8Y"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 52,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "BIOMEDICAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/20124/334799/Nutri%C3%A7%C3%A3o-card.png/35d6b36b-8769-419b-450b-6a31ee9db0e7?t=1629225820506",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "Nutrição-card.png"
+        },
+        "nome": "Nutrição",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "P",
+            "S",
+            "X"
+        ],
+        "duracao": "4",
+        "slug": "nutricao",
+        "linkVideo": [
+            {
+                "linkVideo": "7TZYv0ES98A"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 34,
+        "numeroHabilitacao": 0,
+        "posicao": null,
+        "areaDeConhecimento": "BIOMEDICAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/357231/Odontologia-card.png/5cc76b22-1151-c3fe-9832-7a3db981ff12?t=1632859329627",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "Odontologia-card.png"
+        },
+        "nome": "Odontologia",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "P"
+        ],
+        "duracao": "5",
+        "slug": "odontologia",
+        "linkVideo": [
+            {
+                "linkVideo": "ynlPS4HqlTU"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 11,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "HUMANAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/357244/PEDAGOGIA.jpg/f417e43f-a04c-d5ea-a2d4-df65d5baf39e?t=1595640379249",
+            "description": "",
+            "encodingFormat": "image/jpeg",
+            "fileExtension": "jpg",
+            "title": "PEDAGOGIA.jpg"
+        },
+        "nome": "Pedagogia",
+        "textoCurto": "Mais procurados",
+        "textoImagemDeCatalogo": "Mais procurados",
+        "modalidade": [
+            "P",
+            "D",
+            "X",
+            "V"
+        ],
+        "duracao": "4",
+        "slug": "pedagogia",
+        "linkVideo": [
+            {
+                "linkVideo": "KT7fJErAE88"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 4518,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "HUMANAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/357257/PROCESSOS+ESCOLARES.png/44d00486-e16f-d194-74b3-a70831635428?t=1595640457420",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "PROCESSOS ESCOLARES.png"
+        },
+        "nome": "Processos Escolares",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "D"
+        ],
+        "duracao": "2",
+        "slug": "processos-escolares",
+        "linkVideo": [
+            {
+                "linkVideo": "lVao4G3oyV0"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 4359,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "HUMANAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/357284/PROCESSOS_GERENCIAIS.jpg/adb324da-ef49-9fb2-45e8-fa2c370b77bf?t=1595640416702",
+            "description": "",
+            "encodingFormat": "image/jpeg",
+            "fileExtension": "jpg",
+            "title": "PROCESSOS_GERENCIAIS.jpg"
+        },
+        "nome": "Processos Gerenciais",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "P",
+            "D",
+            "X",
+            "V"
+        ],
+        "duracao": "2",
+        "slug": "processos-gerenciais",
+        "linkVideo": [
+            {
+                "linkVideo": "QY5Q4I8aqSg"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 4367,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "HUMANAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/357310/Produ%C3%A7%C3%A3o+Audiovisual-card.png/19d272ce-5a03-93d2-afba-25d786cbdd0f?t=1632859425357",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "Produção Audiovisual-card.png"
+        },
+        "nome": "Produção Audiovisual",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "P"
+        ],
+        "duracao": "2,5",
+        "slug": "producao-audiovisual",
+        "linkVideo": [
+            {
+                "linkVideo": "NEI0mi4NG0g"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 4343,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "HUMANAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/357323/PRODUCAO+FONOGRAFICA.jpg/fd78af8d-d479-717b-2f4c-3603b8980091?t=1595640580631",
+            "description": "",
+            "encodingFormat": "image/jpeg",
+            "fileExtension": "jpg",
+            "title": "PRODUCAO FONOGRAFICA.jpg"
+        },
+        "nome": "Produção Fonográfica",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "P"
+        ],
+        "duracao": "2,5",
+        "slug": "producao-fonografica",
+        "linkVideo": [
+            {
+                "linkVideo": "McFp_IKJ-MY"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 21,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "BIOMEDICAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/20124/334799/Psicologia-card.png/0200c37c-a748-00fd-fe75-886c1c8b42e7?t=1629225882170",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "Psicologia-card.png"
+        },
+        "nome": "Psicologia",
+        "textoCurto": "Mais procurados",
+        "textoImagemDeCatalogo": "Mais procurados",
+        "modalidade": [
+            "P"
+        ],
+        "duracao": "5",
+        "slug": "psicologia",
+        "linkVideo": [
+            {
+                "linkVideo": "xRYuR00PP0E"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 4001,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "HUMANAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/357362/PUBLICIDADE+E+PROPAGANDA.png/3ea7681d-5678-9e68-23a8-2729a959295e?t=1595641053978",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "PUBLICIDADE E PROPAGANDA.png"
+        },
+        "nome": "Publicidade e Propaganda",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "P",
+            "D"
+        ],
+        "duracao": "4",
+        "slug": "publicidade-e-propaganda",
+        "linkVideo": [
+            {
+                "linkVideo": "SQBJRCyDaDw"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 7114,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "EXATAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/357390/QUIMICA.jpg/26636f82-1425-146e-7888-4fd4341e3b30?t=1595641334644",
+            "description": "",
+            "encodingFormat": "image/jpeg",
+            "fileExtension": "jpg",
+            "title": "QUIMICA.jpg"
+        },
+        "nome": "Química - Licenciatura",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "S"
+        ],
+        "duracao": "4",
+        "slug": "quimica-licenciatura",
+        "linkVideo": [
+            {
+                "linkVideo": "4ZUI2ja2yt4"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 4097,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "BIOMEDICAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/20124/334799/Radiologia.png/0003383a-5da6-c666-563b-2007f80377f3?t=1577718061717",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "Radiologia.png"
+        },
+        "nome": "Radiologia",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "P",
+            "S",
+            "X"
+        ],
+        "duracao": "3",
+        "slug": "radiologia",
+        "linkVideo": [
+            {
+                "linkVideo": "njEiKGZd4fc"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 4054,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "EXATAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/357416/REDE+DE+COMPUTADORES.png/92821653-bff3-0a6d-ebeb-31d1df97be58?t=1595641086072",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "REDE DE COMPUTADORES.png"
+        },
+        "nome": "Redes de Computadores",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "P",
+            "D",
+            "X"
+        ],
+        "duracao": "2,5",
+        "slug": "redes-de-computadores",
+        "linkVideo": [
+            {
+                "linkVideo": "BW4fYZHVhfk"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 4336,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "EXATAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/357434/Redes+de+Telecomunicacoes.png/de23269f-2729-64cd-ea89-9ad163dc028e?t=1595639281735",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "Redes de Telecomunicacoes.png"
+        },
+        "nome": "Redes de Telecomunicações",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "P"
+        ],
+        "duracao": "3",
+        "slug": "redes-de-telecomunicacoes",
+        "linkVideo": [
+            {
+                "linkVideo": "8zWBKuA7jio"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 19,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "HUMANAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/357460/RELACOES+INTERNACIONAIS.png/c9d6401f-51ea-4824-b176-8b8a35518782?t=1595639239017",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "RELACOES INTERNACIONAIS.png"
+        },
+        "nome": "Relações Internacionais",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "P",
+            "D"
+        ],
+        "duracao": "4",
+        "slug": "relacoes-internacionais",
+        "linkVideo": [
+            {
+                "linkVideo": "ABI70NP-UkA"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 3391,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "HUMANAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/357473/Secretariado+Executivo.png/61af8638-1566-b065-331d-711846696399?t=1595639362543",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "Secretariado Executivo.png"
+        },
+        "nome": "Secretariado Executivo",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "D"
+        ],
+        "duracao": "3,5",
+        "slug": "secretariado-executivo",
+        "linkVideo": [
+            {
+                "linkVideo": "w3xxHJNPmlg"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 4503,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "HUMANAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/357486/HISTORIA+SEGUNDA+LICENCIATURA.jpg/03b09f05-1263-3987-6877-bd79268c6241?t=1595613579457",
+            "description": "",
+            "encodingFormat": "image/jpeg",
+            "fileExtension": "jpg",
+            "title": "HISTORIA SEGUNDA LICENCIATURA.jpg"
+        },
+        "nome": "História - Segunda Licenciatura",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "D"
+        ],
+        "duracao": "1,5",
+        "slug": "historia-segunda-licenciatura",
+        "linkVideo": [
+            {
+                "linkVideo": "zIqM2lhXOTQ"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 4505,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "EXATAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/357499/MATEMATICA+SEGUNDA+LICENCIATURA.png/f6d7ef63-60f2-4278-99bd-d185d451de7b?t=1595640849534",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "MATEMATICA SEGUNDA LICENCIATURA.png"
+        },
+        "nome": "Matemática - Segunda Licenciatura",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "D"
+        ],
+        "duracao": "1,5",
+        "slug": "matematica-segunda-licenciatura",
+        "linkVideo": [
+            {
+                "linkVideo": ""
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 4504,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "HUMANAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/357512/LETRAS+LINGUA+PORTUGUESA+SEGUNDA+LICENCIATURA2.jpg/23d4dc90-897d-6032-3196-bf1e0f675cce?t=1595641430345",
+            "description": "",
+            "encodingFormat": "image/jpeg",
+            "fileExtension": "jpg",
+            "title": "LETRAS LINGUA PORTUGUESA SEGUNDA LICENCIATURA2.jpg"
+        },
+        "nome": "Letras - Língua Portuguesa - Segunda Licenciatura",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "D"
+        ],
+        "duracao": "1,5",
+        "slug": "letras-lingua-portuguesa-segunda-licenciatura",
+        "linkVideo": [
+            {
+                "linkVideo": ""
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 4099,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "HUMANAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/357525/SEGURANCA+PUBLICA.png/682e6b37-bef4-d3f9-5bb7-c58859ee63c9?t=1595639466420",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "SEGURANCA PUBLICA.png"
+        },
+        "nome": "Segurança Pública",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "D"
+        ],
+        "duracao": "2",
+        "slug": "seguranca-publica",
+        "linkVideo": [
+            {
+                "linkVideo": "sgvpyCkHBwM"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 289,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "HUMANAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/357538/Servi%C3%A7o+Social-card.png/b040e51e-c5f1-40ad-a9cc-ee5d91f09a99?t=1632859494896",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "Serviço Social-card.png"
+        },
+        "nome": "Serviço Social",
+        "textoCurto": "Mais procurados",
+        "textoImagemDeCatalogo": "Mais procurados",
+        "modalidade": [
+            "P",
+            "D",
+            "X"
+        ],
+        "duracao": "4",
+        "slug": "servico-social",
+        "linkVideo": [
+            {
+                "linkVideo": ""
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 35,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "EXATAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/357551/SISTEMAS+DE+INFORMACAO.png/c5c3cb5c-554c-5999-a973-436fa9563531?t=1595614002952",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "SISTEMAS DE INFORMACAO.png"
+        },
+        "nome": "Sistemas de Informação",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "P",
+            "D",
+            "V"
+        ],
+        "duracao": "4",
+        "slug": "sistemas-de-informacao",
+        "linkVideo": [
+            {
+                "linkVideo": "pB0Y7hHnsWU"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 4349,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "EXATAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/357564/SISTEMAS+PARA+INTERNET.png/0163e18b-cd77-aaae-425d-3bf3b52b36bc?t=1595613975757",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "SISTEMAS PARA INTERNET.png"
+        },
+        "nome": "Sistemas para Internet",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "P",
+            "D"
+        ],
+        "duracao": "2,5",
+        "slug": "sistemas-para-internet",
+        "linkVideo": [
+            {
+                "linkVideo": "T2BQ3qkRlLE"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 865,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "HUMANAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/357577/SOCIOLOGIA.png/98d908fb-10f2-c813-43b1-337652889de0?t=1595613945728",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "SOCIOLOGIA.png"
+        },
+        "nome": "Sociologia",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "D"
+        ],
+        "duracao": "4",
+        "slug": "sociologia",
+        "linkVideo": [
+            {
+                "linkVideo": "w-d2Zo1Oh5A"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 4517,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "HUMANAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/357590/Tecnologias+Educacionais-card.png/e82ff29f-381f-4366-353f-6234f03a43f8?t=1632859634510",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "Tecnologias Educacionais-card.png"
+        },
+        "nome": "Tecnologias Educacionais",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "D"
+        ],
+        "duracao": "2",
+        "slug": "tecnologias-educacionais",
+        "linkVideo": [
+            {
+                "linkVideo": "hmBFUD0XmuU"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 646,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "HUMANAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/357629/TEOLOGIA.jpg/1d46a30a-ae02-ba08-dcb8-9c8ba85276e5?t=1595613763939",
+            "description": "",
+            "encodingFormat": "image/jpeg",
+            "fileExtension": "jpg",
+            "title": "TEOLOGIA.jpg"
+        },
+        "nome": "Teologia",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "D"
+        ],
+        "duracao": "3",
+        "slug": "teologia",
+        "linkVideo": [
+            {
+                "linkVideo": "4p0UmWkj8dk"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 5,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "HUMANAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/357642/Turismo-bacharelado.png/1d68352e-7168-bd85-e9f0-95960f774ff5?t=1595613705489",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "Turismo-bacharelado.png"
+        },
+        "nome": "Turismo - Bacharelado",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "P"
+        ],
+        "duracao": "3,5",
+        "slug": "turismo-bacharelado",
+        "linkVideo": [
+            {
+                "linkVideo": "rB-j9zhZ30Y"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 4514,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "HUMANAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/357655/TURISMO_LICENCIATURA.jpg/0bc1ade6-f9ed-2d88-326f-396fdb38d639?t=1595613732480",
+            "description": "",
+            "encodingFormat": "image/jpeg",
+            "fileExtension": "jpg",
+            "title": "TURISMO_LICENCIATURA.jpg"
+        },
+        "nome": "Turismo - Licenciatura",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "D"
+        ],
+        "duracao": "4",
+        "slug": "turismo-licenciatura",
+        "linkVideo": [
+            {
+                "linkVideo": "6CCygauzb7M"
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 4512,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "HUMANAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/20124/334799/Letras+-+Libras+-+Lingua+Portuguesa.png/ecd84696-c642-084b-cda1-cba5398e57d5?t=1577718059534",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "Letras - Libras - Lingua Portuguesa.png"
+        },
+        "nome": "Letras - Libras - Língua Portuguesa - Licenciatura",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "D"
+        ],
+        "duracao": "4,5",
+        "slug": "letras-libras-lingua-portuguesa-licenciatura",
+        "linkVideo": [
+            {
+                "linkVideo": ""
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 3392,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "HUMANAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/440585/Pedagogia+-+Formacao+Pedagogica.png/0a7c4c63-2617-bae2-c0a2-9070aaa9fe0b?t=1598620623559",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "Pedagogia - Formacao Pedagogica.png"
+        },
+        "nome": "Pedagogia - Formação Pedagógica",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "D"
+        ],
+        "duracao": "1,5",
+        "slug": "pedagogia-formacao-pedagogica",
+        "linkVideo": [
+            {
+                "linkVideo": ""
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 3390,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "EXATAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/440621/Seguranca+no+trabalho.png/ea514884-06b0-d25e-c964-06bd9c4784a1?t=1598620528601",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "Seguranca no trabalho.png"
+        },
+        "nome": "Segurança no Trabalho",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "D"
+        ],
+        "duracao": "3",
+        "slug": "seguranca-no-trabalho",
+        "linkVideo": [
+            {
+                "linkVideo": ""
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 4369,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "HUMANAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/20124/334799/Comunicacao+Institucional.jpg/6e467809-5a5e-2bf6-a802-2d721d4bce12?t=1613318815082",
+            "description": "",
+            "encodingFormat": "image/jpeg",
+            "fileExtension": "jpg",
+            "title": "Comunicacao Institucional.jpg"
+        },
+        "nome": "Comunicação Institucional",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "D"
+        ],
+        "duracao": "2",
+        "slug": "comunicacao-institucional",
+        "linkVideo": [
+            {
+                "linkVideo": ""
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 3634,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "EXATAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/20124/334799/SERVICO+JURIDICOS+E+NOTARIAIS--card.png/cc3bac8d-a5a6-826e-cebe-fff2e254e94b?t=1617741891728",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "SERVICO JURIDICOS E NOTARIAIS--card.png"
+        },
+        "nome": "Serviço Jurídicos e Notariais",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "D"
+        ],
+        "duracao": "2",
+        "slug": "servico-juridicos-e-notariais",
+        "linkVideo": [
+            {
+                "linkVideo": ""
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 3409,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "HUMANAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/20124/334799/PSICOPEDAGOGIA-card.png/eb36befb-69d8-3a94-a433-04e22780db9a?t=1617742950413",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "PSICOPEDAGOGIA-card.png"
+        },
+        "nome": "Psicopedagogia",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "D"
+        ],
+        "duracao": "4",
+        "slug": "psicopedagogia",
+        "linkVideo": [
+            {
+                "linkVideo": ""
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 3632,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "HUMANAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/20124/334799/EMPREENDEDORISMO-card.png/1bffdf8d-f250-aff2-931e-e26ef6e0bc85?t=1617824811186",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "EMPREENDEDORISMO-card.png"
+        },
+        "nome": "Empreendedorismo",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "D"
+        ],
+        "duracao": "2",
+        "slug": "empreendedorismo",
+        "linkVideo": [
+            {
+                "linkVideo": ""
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 3631,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "EXATAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/579477/Marketing+Digital-card.png/16e1397f-2ca3-855d-9cef-fb4379027f14?t=1632859111411",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "Marketing Digital-card.png"
+        },
+        "nome": "Marketing Digital",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "D"
+        ],
+        "duracao": "2",
+        "slug": "marketing-digital",
+        "linkVideo": [
+            {
+                "linkVideo": ""
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 3405,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "HUMANAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/898661/ciencias+politicas_card.png/62412c81-a61a-d721-ddcb-f9f14db1d95b?t=1624572225495",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "ciencias politicas_card.png"
+        },
+        "nome": "Ciências Políticas",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "D"
+        ],
+        "duracao": "4",
+        "slug": "ciencias-politicas",
+        "linkVideo": [
+            {
+                "linkVideo": ""
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 4989,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "HUMANAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/316123/898674/Ciencias+sociais-+card.png/57048311-f35d-03bd-e2f2-2761b58050df?t=1624571644054",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "Ciencias sociais- card.png"
+        },
+        "nome": "Ciências Sociais",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "D"
+        ],
+        "duracao": "4",
+        "slug": "ciencias-sociais",
+        "linkVideo": [
+            {
+                "linkVideo": ""
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    },
+    {
+        "codigoCurso": 5140,
+        "numeroHabilitacao": null,
+        "posicao": null,
+        "areaDeConhecimento": "BIOMEDICAS",
+        "tipo": "GRAD",
+        "imagem": {
+            "contentUrl": "/documents/20124/334799/Cards+-+Gest%C3%A3o+Desportiva+e+de+Lazer.png/ec1a5129-158d-acd5-3918-1db0498eb82a?t=1627674780380",
+            "description": "",
+            "encodingFormat": "image/png",
+            "fileExtension": "png",
+            "title": "Cards - Gestão Desportiva e de Lazer.png"
+        },
+        "nome": "Gestão Desportiva e de Lazer",
+        "textoCurto": "",
+        "textoImagemDeCatalogo": "",
+        "modalidade": [
+            "D"
+        ],
+        "duracao": "2",
+        "slug": "gestao-desportiva-e-de-lazer",
+        "linkVideo": [
+            {
+                "linkVideo": ""
+            }
+        ],
+        "imagemFiquePorDentro": [
+            {
+                "imagemFiquePorDentro": null
+            }
+        ]
+    }
+]
