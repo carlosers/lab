@@ -1,0 +1,44 @@
+/* geral */
+*{
+    margin: 0;
+    font-family: helvetica;
+}
+
+/* barra de navegação */
+nav{
+    background-color: #303030;
+    border-bottom:3px solid #101010;
+    height: 50px
+}
+
+#logo{
+    color: #FFF;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    position: absolute;
+    top: 15px;
+    left: 10px;
+}
+
+#menu{
+    list-style: none;
+    float: right;
+    margin: 17px;
+}
+
+.item{
+    display: inline-block;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.item a{
+    color: #fff;
+    text-decoration: none;
+}
+
+.item a:hover{
+    color: #CCC;
+    transition: .5s;
+}
